@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "奥二重で見る",
+  "base_artist": "ハク。",
+  "createdAt": "2026-02-12T04:18:54.879692Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "奥二重で見る",
+      "artist": "ハク。",
+      "has_synced": false,
+      "path": "select/pl_01_奥二重で見る_ハク。.txt"
+    }
+  ]
+}
